@@ -17,6 +17,12 @@
       background-size: 1000px 1000px;
     }
   </style>
+
+<script type="text/javascript">
+  var tick = new Audio();
+  tick.src = "music/tickkk.mp3";
+</script>
+
 </head>
 
 <body>
@@ -30,22 +36,19 @@
         It's an old man, wearing a dirty apron.
         He pushes you inside his hole-in-the wall shop, shooing you into the kitchens with a list of tasks. What do you
         do?
-        <div class="choice">
+        <div class="choice" onclick="window.location.href='page2.html'" onMouseEnter="tick.play()">
           <h1 class="choicelink">The sink is full of dishes, the floor is dirty, and the rice needs cooking.
             You roll up your sleeves with determination and get straight to work.
           </h1>
         </div>
 
-        <div class="choice2">
+        <div class="choice2" onclick="window.location.href='page2.html'" onMouseEnter="tick.play()">
           <h1 class="choicelink">No one tells YOU what to do!
             When the old man is distracted, you take the chance to try and sneak out the back door.</h1>
         </div>
 
     </div>
 
-  </div>
-  <div class="container">
-    <h1 class="title">Get to Work</h1>
   </div>
 
 </body>

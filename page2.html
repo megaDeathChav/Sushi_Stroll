@@ -15,18 +15,24 @@
         background-size: 1000px 1000px;
       }
     </style>
+
+<script type="text/javascript">
+  var tick = new Audio();
+  tick.src = "music/tickkk.mp3";
+</script>
+
   </head>
   <body>
 
       <div class="dialoguebox">
-        <div class="question">
+        <div class="question" onclick="window.location.href='page3.html'" onMouseEnter="tick.play()">
           <h1 class="questioncopy">Despite your complaints, you end up scrubbing the night away at the sink 
             and at the beck and call of the old man. He's actually a pretty cool dude. And it's nice to know someone in this strange city.
             <br> 
             <br> 
             Before you know it, the sun is slowly creeping into the restaurant. The old man hands you some coins, and says to be on time for your evening shift. 
             How do you spend your free time?
-          <div class="choice">
+          <div class="choice" onclick="window.location.href='page3.html'" onMouseEnter="tick.play()">
             <h1 class="choicelink">Alone. This city isn't going to explore itself!
             </h1>
           </div>
@@ -37,9 +43,6 @@
 
         </div>
           
-      </div>
-      <div class="container">
-        <h1 class="title">Continue</h1>
       </div>
 
   </body>
