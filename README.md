@@ -1,31 +1,18 @@
-# About FullyPacks 🐘🎁
-### one of a [_curated collection of Github templates_](https://github.com/orgs/acmcsufoss/repositories?q=fullypack_&type=all&sort=stargazers) designed to kickstart your project and help you get up and running in no time!
+# Sushi Personality Test 
+### Overview
 
-# About FullyPack-HTML-CSS 🌐
 
-### This is a simple website made with HTML and CSS that you can play around and make it your own
+Welcome to the Sushi Personality Test, a fun and engaging personality quiz that helps you discover which type of sushi best represents you! By answering a series of storyline-based questions, the quiz generates your sushi personality, from classic options like Salmon Sushi to more creative choices like the California Roll. Whether you're as bold as spicy tuna or as refined as sashimi, this quiz will match you with the sushi that best reflects your unique traits.
 
-# Screenshots 📸
-![image](https://user-images.githubusercontent.com/58461444/228682893-d0daa530-ed8c-4f80-bd7e-6dccc4e5ecb9.png)
-![image](https://user-images.githubusercontent.com/58461444/228682909-b9974234-05c4-49e6-9293-26d425b01f28.png)
-![image](https://user-images.githubusercontent.com/58461444/228682935-6c9769d5-c04e-499a-8683-c16320746055.png)
+Note: This project is currently under development. Many features are still being built and refined, but feel free to explore the code and contribute!
 
-# How to use 🚀
+## How it Works 🤔 
 
-1. Use this template by clicking "Use this template" button above or [click here](https://github.com/acmcsufoss/fullypack_html_css/generate)
-2. Open the folder in VSCode
-3. Download Live Server in VSCode ([Download VSCode](https://code.visualstudio.com/download) if you haven't)
-<img width="1431" alt="Screen Shot 2023-03-29 at 3 36 01 PM" src="https://user-images.githubusercontent.com/58461444/228683124-b38911a8-2b37-4eb6-9a82-ac7726aee107.png">
-4. Click on Go Live to see the website
-<img width="1433" alt="Screen Shot 2023-03-29 at 3 37 53 PM" src="https://user-images.githubusercontent.com/58461444/228684205-7e5f3ce1-8dd5-4a6e-92ad-138c9e874a23.png">
-5. Make any changes to the code, and you'll see the change right away on the website
+1. Answer a series of dynamic storyline questions that help assess different aspects of your personality! 
 
-## HTML? CSS? 🤔 
-- HTML (Hypertext Markup Language) is the standard markup language used to create web pages. It consists of a series of tags and attributes that are used to structure and format the content of a web page. HTML is used to define the different parts of a web page such as headings, paragraphs, images, links, and more.
+2. Based on your decisions throughout the storyline, the quiz will reveal which sushi type you align with—whether it's a classic like Tuna Sushi or something more adventurous like a Dragon Roll.
 
-- CSS (Cascading Style Sheets) is a language used to describe the presentation of a web page. It is used to control the visual appearance of the HTML elements defined in the web page. With CSS, you can specify the color, font, size, and layout of the elements on the page, as well as control how they are displayed on different devices such as desktops, tablets, and mobile phones.
-
-=> In simpler terms, HTML is used to create the content and structure of a web page, while CSS is used to control how the page looks and feels. Together, HTML and CSS are used to create visually appealing and user-friendly web pages that can be accessed by anyone with an internet connection.
+HTML is used to create the content and structure of this webpage, while CSS is used to control how the page looks and feels. Together, HTML and CSS are used to create visually appealing and user-friendly web pages that can be accessed by anyone with an internet connection.
 
 ## Project structures ℹ️
 ```/images```: Folder to store images to use it for the website
@@ -38,7 +25,4 @@
 
 ```page2.html```: HTML file for page 2
 
-## 📝 References
-- [HTML Tutorial](https://www.w3schools.com/html/)
-- [CSS Tutorial](https://www.w3schools.com/css/)
-- [ACMDev HTML/CSS Workshop](https://github.com/acmCSUFDev/intro-to-web-dev/tree/part-1)
+This project was forked and used for CSUF's FullyHacks 2024 competition
